@@ -1,5 +1,8 @@
 package com.bit.test;
 
+
+// I love JAVA
+
 public class Calculator 
 {
 	
